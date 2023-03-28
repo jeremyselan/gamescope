@@ -1,0 +1,9 @@
+subprojects/glm-*
+subprojects/libdisplay-info
+subprojects/libliftoff
+subprojects/openvr
+subprojects/packagecache
+subprojects/packagefiles
+subprojects/stb
+subprojects/vkroots
+subprojects/wlroots
